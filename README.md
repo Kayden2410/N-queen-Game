@@ -193,11 +193,9 @@ The UI is built around a **dark glassmorphism aesthetic** inspired by Chess.com 
 
 <div align="center">
 
-**Ayush Kumar Singh**
+**Bishal Datta**
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40your--username-181717?style=flat&logo=github)](https://github.com/ayushks110205)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayush-kumar-singh-384a58285/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat)](https://your-site.com)
+[![GitHub]](https://github.com/Kayden2410/N-queen-Game/blob/main)
 
 *Built with ♛ and TypeScript*
 
